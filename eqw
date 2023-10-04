@@ -1,0 +1,23 @@
+[33mcommit 9e3af938b6c5b2509e9a75c51f0fc57f7e76d33a[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m)[m
+Author: Kiss Tamas <kisstomi03@gmail.com>
+Date:   Wed Oct 4 10:55:48 2023 +0200
+
+    Implemented new feature: Fireing all torpedos
+
+[33mcommit 3c019f6c6a19df72ce98635b7c0a65d338e0292f[m[33m ([m[1;32mmain[m[33m)[m
+Author: Kiss Tamas <kisstomi03@gmail.com>
+Date:   Wed Oct 4 10:41:48 2023 +0200
+
+    pom.xml módosítás
+
+[33mcommit 197221618623262dc666af164ab52b3069835fec[m
+Author: Kiss Tamas <kisstomi03@gmail.com>
+Date:   Wed Oct 4 10:32:58 2023 +0200
+
+    Add initial project files
+
+[33mcommit 7966de193f9d0751d6772c08e3e739db790d58c1[m
+Author: TommyAOE <90925684+TommyAOE@users.noreply.github.com>
+Date:   Wed Oct 4 10:15:23 2023 +0200
+
+    Initial commit
